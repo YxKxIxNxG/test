@@ -1,2 +1,6 @@
 Hi 
 This is test 
+
+how are you 
+
+Github VS code commit test 
